@@ -1,0 +1,4 @@
+Criar a tela inicial do banco
+fazer ele armazenar dados de entradada de dinheiro
+fazer ele armazenar dados de saida de dinheiro
+Calcular gastos
